@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://siacashcoin.com',
+    href: 'https://apemuuinu.com',
   },
   {
     label: 'Trade',
@@ -24,22 +24,22 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://siacashcoin.com/farms',
+    href: 'https://apemuuinu.com/farms',
   },
   {
     label: 'Pools',
     icon: 'PoolIcon',
-    href: 'https://siacashcoin.com/syrup',
+    href: 'https://apemuuinu.com/syrup',
   },
   // {
   //   label: 'Lottery',
   //   icon: 'TicketIcon',
-  //   href: 'https://siacashcoin.com/lottery',
+  //   href: 'https://apemuuinu.com/lottery',
   // },
   // {
   //   label: 'NFT',
   //   icon: 'NftIcon',
-  //   href: 'https://siacashcoin.com/nft',
+  //   href: 'https://apemuuinu.com/nft',
   // },
   // {
   //   label: 'Teams & Profile',
@@ -48,15 +48,15 @@ const config: MenuEntry[] = [
   //   items: [
   //     {
   //       label: 'Leaderboard',
-  //       href: 'https://siacashcoin.com/teams',
+  //       href: 'https://apemuuinu.com/teams',
   //     },
   //     {
   //       label: 'Task Center',
-  //       href: 'https://siacashcoin.com/profile/tasks',
+  //       href: 'https://apemuuinu.com/profile/tasks',
   //     },
   //     {
   //       label: 'Your Profile',
-  //       href: 'https://siacashcoin.com/profile',
+  //       href: 'https://apemuuinu.com/profile',
   //     },
   //   ],
   // },
@@ -85,7 +85,7 @@ const config: MenuEntry[] = [
   // {
   //   label: 'IFO',
   //   icon: 'IfoIcon',
-  //   href: 'https://siacashcoin.com/ifo',
+  //   href: 'https://apemuuinu.com/ifo',
   // },
   // {
   //   label: 'More',
@@ -93,7 +93,7 @@ const config: MenuEntry[] = [
   //   items: [
   //     {
   //       label: 'Voting',
-  //       href: 'https://voting.siacashcoin.com',
+  //       href: 'https://voting.apemuuinu.com',
   //     },
   //     {
   //       label: 'Github',
@@ -101,7 +101,7 @@ const config: MenuEntry[] = [
   //     },
   //     {
   //       label: 'Docs',
-  //       href: 'https://docs.siacashcoin.com',
+  //       href: 'https://docs.apemuuinu.com',
   //     },
   //     {
   //       label: 'Blog',

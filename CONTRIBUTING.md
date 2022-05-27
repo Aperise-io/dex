@@ -1,4 +1,4 @@
-# Contributing to the SiaCashCoin ecosystem
+# Contributing to the apemuuinu ecosystem
 
 Thanks for taking the time to contribute !
 
