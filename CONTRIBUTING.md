@@ -1,4 +1,4 @@
-# Contributing to the apemuuinu ecosystem
+# Contributing to the Muun_inu ecosystem
 
 Thanks for taking the time to contribute !
 

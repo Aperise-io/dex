@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://apemuuinu.com',
+    href: 'https://Muun_inu.com',
   },
   {
     label: 'Trade',
@@ -24,22 +24,22 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://apemuuinu.com/farms',
+    href: 'https://Muun_inu.com/farms',
   },
   {
     label: 'Pools',
     icon: 'PoolIcon',
-    href: 'https://apemuuinu.com/syrup',
+    href: 'https://Muun_inu.com/syrup',
   },
   // {
   //   label: 'Lottery',
   //   icon: 'TicketIcon',
-  //   href: 'https://apemuuinu.com/lottery',
+  //   href: 'https://Muun_inu.com/lottery',
   // },
   // {
   //   label: 'NFT',
   //   icon: 'NftIcon',
-  //   href: 'https://apemuuinu.com/nft',
+  //   href: 'https://Muun_inu.com/nft',
   // },
   // {
   //   label: 'Teams & Profile',
@@ -48,15 +48,15 @@ const config: MenuEntry[] = [
   //   items: [
   //     {
   //       label: 'Leaderboard',
-  //       href: 'https://apemuuinu.com/teams',
+  //       href: 'https://Muun_inu.com/teams',
   //     },
   //     {
   //       label: 'Task Center',
-  //       href: 'https://apemuuinu.com/profile/tasks',
+  //       href: 'https://Muun_inu.com/profile/tasks',
   //     },
   //     {
   //       label: 'Your Profile',
-  //       href: 'https://apemuuinu.com/profile',
+  //       href: 'https://Muun_inu.com/profile',
   //     },
   //   ],
   // },
@@ -85,7 +85,7 @@ const config: MenuEntry[] = [
   // {
   //   label: 'IFO',
   //   icon: 'IfoIcon',
-  //   href: 'https://apemuuinu.com/ifo',
+  //   href: 'https://Muun_inu.com/ifo',
   // },
   // {
   //   label: 'More',
@@ -93,7 +93,7 @@ const config: MenuEntry[] = [
   //   items: [
   //     {
   //       label: 'Voting',
-  //       href: 'https://voting.apemuuinu.com',
+  //       href: 'https://voting.Muun_inu.com',
   //     },
   //     {
   //       label: 'Github',
@@ -101,7 +101,7 @@ const config: MenuEntry[] = [
   //     },
   //     {
   //       label: 'Docs',
-  //       href: 'https://docs.apemuuinu.com',
+  //       href: 'https://docs.Muun_inu.com',
   //     },
   //     {
   //       label: 'Blog',
